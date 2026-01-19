@@ -96,3 +96,7 @@ All KPI's are built using **Custom DAX measures**
   - Home & Kitchen products experience the highest return rates
   - A small group of customers contributes a significant portion of profit
   - Flagship stores disproportionately impact total profitability
+
+
+![Uploading image.png…]()
+
